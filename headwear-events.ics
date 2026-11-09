@@ -1,0 +1,201 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Headwear Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Industry events and product launch dates for AI glasses and X
+ R headwear. Last checked 2026-11-09. Status tags: Confirmed, Expected, Rum
+ oured, TBA.
+X-WR-CALNAME:Headwear events & launches
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+SUMMARY:[Expected] Samsung/Google Android XR glasses preorders open
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261109T121402Z
+UID:samsung-google-intelligent-eyewear-preorders-2026@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Launch
+DESCRIPTION:Status: Expected\nType: launch\n\nPreorders for the Samsung an
+ d Google Android XR 'Intelligent Eyewear' (designs with Gentle Monster and
+  Warby Parker) reportedly open 12 Nov\, with first deliveries in mid-Decem
+ ber. The date comes from Warby Parker's co-CEO on its Q3 earnings call and
+  from Gentle Monster's website\; Samsung and Google have not confirmed it.
+  Korean press reports preorders in Korea\, the US and other major markets.
+  No price announced yet.\n\nSources:\n- https://the-gadgeteer.com/2026/11/
+ 06/samsung-android-xr-glasses-preorders-november-12/\n- https://engadget.c
+ om/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-p
+ lans\n- https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasse
+ s-open-for-preorder-on-the-12th\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] UnitedXR Europe 2026
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261210
+DTSTAMP:20261109T121402Z
+UID:unitedxr-europe-2026@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nCo-produced by AWE and Stere
+ opsia\; replaces both AWE EU and Stereopsia Europe.\n\nSources:\n- https:/
+ /media-and-learning.eu/subject/ar-vr/xr/unitedxr-europe-2026-7-9-december-
+ brussels/\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Maison de la Poste\, Brussels
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] CES 2027
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270110
+DTSTAMP:20261109T121402Z
+UID:ces-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per CTA. Media days be
+ fore the show are not listed here.\n\nSources:\n- https://audioxpress.com/
+ news/ces-returns-january-with-ai-connected-mobility-and-new-opportunities-
+ for-audio\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Las Vegas (LVCC\, Venetian\, C Space)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] SPIE AR|VR|MR 2027 (at Photonics West)
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270205
+DTSTAMP:20261109T121402Z
+UID:spie-ar-vr-mr-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates shown are for SPIE Pho
+ tonics West 2027 overall\, per SPIE's press release. The AR|VR|MR area sit
+ s within the Photonics West exhibition\, which runs 2 to 4 Feb. Separate A
+ R|VR|MR conference session dates not yet published.\n\nSources:\n- https:/
+ /via.tt.se/pressmeddelande/4596753/international-optics-and-photonics-comm
+ unity-invited-to-spie-photonics-west-2027?lang=en\n\nLast checked: 2026-11
+ -09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Moscone Center\, San Francisco
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] MWC Barcelona 2027
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270305
+DTSTAMP:20261109T121402Z
+UID:mwc-barcelona-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per GSMA.\n\nSources:
+ \n- https://www.gsma.com/get-involved/gsma-membership/gsma_events/gsma-mem
+ bership-at-mwc-barcelona-2027/\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Fira Gran Via\, Barcelona
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBA] Google I/O 2027 (May\, dates not announced)
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+DTSTAMP:20261109T121402Z
+UID:google-io-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: TBA\nType: event\n\nPlaceholder on the 1st of the expe
+ cted month. Google has not announced 2027 dates\; the 2026 edition ran 19 
+ to 20 May and its dates were announced in February.\n\nSources:\n- https:/
+ /www.opencurious.com/tech-events/google-io-2027\n- https://www.iphoneincan
+ ada.ca/2026/02/17/google-i-o-2026-dates-announced-for-may-gemini-to-androi
+ d-and-more/\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBA] Apple WWDC 2027 (June\, dates not announced)
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+DTSTAMP:20261109T121402Z
+UID:wwdc-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: TBA\nType: event\n\nPlaceholder on the 1st of the expe
+ cted month. Apple has not announced 2027 dates\; WWDC 2026 ran 8 to 12 Jun
+ e. Bloomberg's Mark Gurman reported (July 2026) that Apple plans to unveil
+  its first smart glasses (N50) at WWDC 2027\, with release by end of 2027.
+  Rumour\, not confirmed by Apple.\n\nSources:\n- https://us.smartprix.com/
+ bytes/apple-confirms-wwdc-2026-dates-june-8-12-keynote-on-june-8/\n- https
+ ://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/\n\nLas
+ t checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] AWE USA 2027
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270618
+DTSTAMP:20261109T121402Z
+UID:awe-usa-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per AWE's own site.\n
+ \nSources:\n- https://www.awexr.com/usa-2027\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Long Beach\, California
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Expected] IFA Berlin 2027
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270908
+DTSTAMP:20261109T121402Z
+UID:ifa-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Expected\nType: event\n\nDates from visitBerlin's even
+ t listing\, which also refers to 'IFA 2026' in one place. Needs checking a
+ gainst ifa-berlin.com before relying on it.\n\nSources:\n- https://www.vis
+ itberlin.de/en/event/ifa-2027-innovation-all\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+LOCATION:Messe Berlin
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[TBA] Meta Connect 2027 (September\, dates not announced)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DTSTAMP:20261109T121402Z
+UID:meta-connect-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: TBA\nType: event\n\nPlaceholder on the 1st of the expe
+ cted month. Meta has not announced 2027 dates\; Connect 2026 ran 23 to 24 
+ September.\n\nSources:\n- https://roadtovr.com/meta-connect-2026-date-anno
+ uncement/\n\nLast checked: 2026-11-09
+LAST-MODIFIED:20261109T000000Z
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,93 @@
+{
+  "note": "Launches and events known only to a month, season or year. These stay out of the calendar until a specific date is announced.",
+  "items": [
+    {
+      "name": "Samsung/Google Android XR glasses: first deliveries",
+      "status": "Expected",
+      "window": "Mid-December 2026",
+      "detail": "Warby Parker's co-CEO said first pairs reach customers in mid-December; Korean press says on sale in December. Exact ship day not named; no price yet.",
+      "sources": [
+        "https://the-gadgeteer.com/2026/11/06/samsung-android-xr-glasses-preorders-november-12/",
+        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th"
+      ]
+    },
+    {
+      "name": "XREAL Aura (Android XR): shipping and wider retail",
+      "status": "Confirmed",
+      "window": "Ships from mid-November 2026; launch pricing ends December 2026; wider retail in 2027",
+      "detail": "Went on sale 28 Oct 2026 in the US, Canada, Japan and South Korea from $1,099 (launch price). Select Google Store locations in the US and Japan to stock it in 2027.",
+      "sources": [
+        "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/"
+      ]
+    },
+    {
+      "name": "Snap Specs: shipping",
+      "status": "Confirmed",
+      "window": "'Later this fall' (2026), US, UK and France",
+      "detail": "$2,195, preorders open with a $200 refundable deposit; EE is the UK carrier partner. Per Snap's 16 Sept 2026 announcement. Needs checking whether shipping has started.",
+      "sources": [
+        "https://investor.snap.com/news/news-details/2026/SPECS-Make-Computing-More-Human-with-New-Experiences-Partnerships-and-SPECS-Intelligence/default.aspx"
+      ]
+    },
+    {
+      "name": "Meta VR Glasses (Project Phoenix)",
+      "status": "Confirmed",
+      "window": "Spring 2027 (US price only so far)",
+      "detail": "Announced at Connect 2026 at $1,299.99; glasses plus a compute puck; no preorders yet and no UK/EU pricing.",
+      "sources": [
+        "https://vr.org/meta-connect-2026"
+      ]
+    },
+    {
+      "name": "Google Android XR display glasses",
+      "status": "Expected",
+      "window": "2027 at the earliest",
+      "detail": "Google indicated at I/O 2026 that display glasses won't reach retail before 2027; audio-only models came first.",
+      "sources": [
+        "https://www.androidauthority.com/android-xr-display-glasses-3668830/"
+      ]
+    },
+    {
+      "name": "Gucci x Google Android XR glasses",
+      "status": "Expected",
+      "window": "2027, no month given",
+      "detail": "Partnership announced by Kering (April 2026, reported by Reuters). Technical details, including whether there is a display, not disclosed.",
+      "sources": [
+        "https://www.androidheadlines.com/2026/04/gucci-google-android-xr-smart-glasses-2027.html"
+      ]
+    },
+    {
+      "name": "Apple smart glasses (N50)",
+      "status": "Rumoured",
+      "window": "Unveil at WWDC 2027, release by end of 2027",
+      "detail": "Per Bloomberg's Mark Gurman (July 2026); original plan was a late-2026 reveal. Not confirmed by Apple.",
+      "sources": [
+        "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/"
+      ]
+    },
+    {
+      "name": "Amazon consumer HUD glasses",
+      "status": "Rumoured",
+      "window": "Late 2026 or early 2027",
+      "detail": "Per The Information (Sept 2025). Old report; needs a fresh source.",
+      "sources": [
+        "https://www.uploadvr.com/amazon-reportedly-working-on-echo-hud-glasses/"
+      ]
+    },
+    {
+      "name": "Samsung Galaxy Unpacked (early 2027)",
+      "status": "TBA",
+      "window": "Early 2027, not announced",
+      "detail": "The early-2026 edition was 25 Feb. Worth watching for Samsung glasses and Android XR news.",
+      "sources": [
+        "https://www.thurrott.com/hardware/332582/samsung-to-reveal-its-next-flagship-galaxy-phones-on-february-25"
+      ]
+    }
+  ],
+  "changelog": [
+    {
+      "date": "2026-11-09",
+      "entry": "First version: 10 calendar entries (6 events with dates, 3 placeholders for unannounced events, 1 product date) and 9 tracker items."
+    }
+  ]
+}

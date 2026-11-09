@@ -1,0 +1,150 @@
+{
+  "calendar_name": "Headwear events & launches",
+  "last_checked": "2026-11-09",
+  "items": [
+    {
+      "id": "samsung-google-intelligent-eyewear-preorders-2026",
+      "type": "launch",
+      "status": "Expected",
+      "title": "Samsung/Google Android XR glasses preorders open",
+      "start": "2026-11-12",
+      "end": "2026-11-12",
+      "location": "",
+      "notes": "Preorders for the Samsung and Google Android XR 'Intelligent Eyewear' (designs with Gentle Monster and Warby Parker) reportedly open 12 Nov, with first deliveries in mid-December. The date comes from Warby Parker's co-CEO on its Q3 earnings call and from Gentle Monster's website; Samsung and Google have not confirmed it. Korean press reports preorders in Korea, the US and other major markets. No price announced yet.",
+      "sources": [
+        "https://the-gadgeteer.com/2026/11/06/samsung-android-xr-glasses-preorders-november-12/",
+        "https://engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans",
+        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "unitedxr-europe-2026",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "UnitedXR Europe 2026",
+      "start": "2026-12-07",
+      "end": "2026-12-09",
+      "location": "Maison de la Poste, Brussels",
+      "notes": "Co-produced by AWE and Stereopsia; replaces both AWE EU and Stereopsia Europe.",
+      "sources": [
+        "https://media-and-learning.eu/subject/ar-vr/xr/unitedxr-europe-2026-7-9-december-brussels/"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "ces-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "CES 2027",
+      "start": "2027-01-06",
+      "end": "2027-01-09",
+      "location": "Las Vegas (LVCC, Venetian, C Space)",
+      "notes": "Dates per CTA. Media days before the show are not listed here.",
+      "sources": [
+        "https://audioxpress.com/news/ces-returns-january-with-ai-connected-mobility-and-new-opportunities-for-audio"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "spie-ar-vr-mr-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "SPIE AR|VR|MR 2027 (at Photonics West)",
+      "start": "2027-01-30",
+      "end": "2027-02-04",
+      "location": "Moscone Center, San Francisco",
+      "notes": "Dates shown are for SPIE Photonics West 2027 overall, per SPIE's press release. The AR|VR|MR area sits within the Photonics West exhibition, which runs 2 to 4 Feb. Separate AR|VR|MR conference session dates not yet published.",
+      "sources": [
+        "https://via.tt.se/pressmeddelande/4596753/international-optics-and-photonics-community-invited-to-spie-photonics-west-2027?lang=en"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "mwc-barcelona-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "MWC Barcelona 2027",
+      "start": "2027-03-01",
+      "end": "2027-03-04",
+      "location": "Fira Gran Via, Barcelona",
+      "notes": "Dates per GSMA.",
+      "sources": [
+        "https://www.gsma.com/get-involved/gsma-membership/gsma_events/gsma-membership-at-mwc-barcelona-2027/"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "google-io-2027",
+      "type": "event",
+      "status": "TBA",
+      "title": "Google I/O 2027 (May, dates not announced)",
+      "start": "2027-05-01",
+      "end": "2027-05-01",
+      "location": "",
+      "notes": "Placeholder on the 1st of the expected month. Google has not announced 2027 dates; the 2026 edition ran 19 to 20 May and its dates were announced in February.",
+      "sources": [
+        "https://www.opencurious.com/tech-events/google-io-2027",
+        "https://www.iphoneincanada.ca/2026/02/17/google-i-o-2026-dates-announced-for-may-gemini-to-android-and-more/"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "wwdc-2027",
+      "type": "event",
+      "status": "TBA",
+      "title": "Apple WWDC 2027 (June, dates not announced)",
+      "start": "2027-06-01",
+      "end": "2027-06-01",
+      "location": "",
+      "notes": "Placeholder on the 1st of the expected month. Apple has not announced 2027 dates; WWDC 2026 ran 8 to 12 June. Bloomberg's Mark Gurman reported (July 2026) that Apple plans to unveil its first smart glasses (N50) at WWDC 2027, with release by end of 2027. Rumour, not confirmed by Apple.",
+      "sources": [
+        "https://us.smartprix.com/bytes/apple-confirms-wwdc-2026-dates-june-8-12-keynote-on-june-8/",
+        "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "awe-usa-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "AWE USA 2027",
+      "start": "2027-06-14",
+      "end": "2027-06-17",
+      "location": "Long Beach, California",
+      "notes": "Dates per AWE's own site.",
+      "sources": [
+        "https://www.awexr.com/usa-2027"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "ifa-2027",
+      "type": "event",
+      "status": "Expected",
+      "title": "IFA Berlin 2027",
+      "start": "2027-09-03",
+      "end": "2027-09-07",
+      "location": "Messe Berlin",
+      "notes": "Dates from visitBerlin's event listing, which also refers to 'IFA 2026' in one place. Needs checking against ifa-berlin.com before relying on it.",
+      "sources": [
+        "https://www.visitberlin.de/en/event/ifa-2027-innovation-all"
+      ],
+      "updated": "2026-11-09"
+    },
+    {
+      "id": "meta-connect-2027",
+      "type": "event",
+      "status": "TBA",
+      "title": "Meta Connect 2027 (September, dates not announced)",
+      "start": "2027-09-01",
+      "end": "2027-09-01",
+      "location": "",
+      "notes": "Placeholder on the 1st of the expected month. Meta has not announced 2027 dates; Connect 2026 ran 23 to 24 September.",
+      "sources": [
+        "https://roadtovr.com/meta-connect-2026-date-announcement/"
+      ],
+      "updated": "2026-11-09"
+    }
+  ]
+}
