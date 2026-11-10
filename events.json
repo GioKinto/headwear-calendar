@@ -1,6 +1,6 @@
 {
   "calendar_name": "Headwear events & launches",
-  "last_checked": "2026-11-09",
+  "last_checked": "2026-11-10",
   "items": [
     {
       "id": "samsung-google-intelligent-eyewear-preorders-2026",
@@ -10,13 +10,15 @@
       "start": "2026-11-12",
       "end": "2026-11-12",
       "location": "",
-      "notes": "Preorders for the Samsung and Google Android XR 'Intelligent Eyewear' (designs with Gentle Monster and Warby Parker) reportedly open 12 Nov, with first deliveries in mid-December. The date comes from Warby Parker's co-CEO on its Q3 earnings call and from Gentle Monster's website; Samsung and Google have not confirmed it. Korean press reports preorders in Korea, the US and other major markets. No price announced yet.",
+      "notes": "Preorders for the Samsung and Google Android XR 'Intelligent Eyewear' (designs with Gentle Monster and Warby Parker) reportedly open 12 Nov. The date comes from Warby Parker's co-CEO on its Q3 earnings call and from Gentle Monster's website; Samsung and Google have not confirmed it. Deliveries have reportedly slipped from November to mid-December. Reports differ on markets: Korean press mentions Korea, the US and other major markets, while Tech Times (citing NewsBytes and GSMArena) says the first rollout covers only the US and South Korea, with Europe, China and Japan excluded. No price announced yet.",
       "sources": [
         "https://the-gadgeteer.com/2026/11/06/samsung-android-xr-glasses-preorders-november-12/",
         "https://engadget.com/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-plans",
-        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th"
+        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th",
+        "https://www.techtimes.com/articles/329847/20261101/samsung-smart-glasses-slip-december-google-keeps-gemini-conversations-18-months.htm"
       ],
-      "updated": "2026-11-09"
+      "updated": "2026-11-10",
+      "sequence": 1
     },
     {
       "id": "unitedxr-europe-2026",
@@ -145,6 +147,78 @@
         "https://roadtovr.com/meta-connect-2026-date-announcement/"
       ],
       "updated": "2026-11-09"
+    },
+    {
+      "id": "gdc-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "GDC Festival of Gaming 2027",
+      "start": "2027-03-01",
+      "end": "2027-03-05",
+      "location": "San Francisco (Business Hall at Moscone West)",
+      "notes": "Dates per GDC's registration site. Relevant for VR/MR content and platform news from Meta, Valve, Pico and others. Overlaps with MWC Barcelona.",
+      "sources": [
+        "https://reg.gdconf.com/SolutionProvidersRequestInfo",
+        "https://gamedev.net/news/5271-gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business"
+      ],
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "laval-virtual-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "Laval Virtual 2027",
+      "start": "2027-04-07",
+      "end": "2027-04-09",
+      "location": "Espace Mayenne, Laval, France",
+      "notes": "Dates per the organiser's site. Europe's largest dedicated XR show, mostly enterprise and research.",
+      "sources": [
+        "https://laval-virtual.com/en/prepare-your-visit"
+      ],
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "computex-2027",
+      "type": "event",
+      "status": "Expected",
+      "title": "COMPUTEX 2027",
+      "start": "2027-06-01",
+      "end": "2027-06-04",
+      "location": "Taipei (Nangang, TWTC, TICC)",
+      "notes": "Dates from a third-party listing that cites TAITRA's official site (checked 30 Oct 2026). I couldn't load the official site to confirm, so this needs checking. Qualcomm, ASUS, Acer and Taiwanese supply-chain firms often show glasses and XR hardware here.",
+      "sources": [
+        "https://www.opencurious.com/tech-events/computex-2027",
+        "https://www.computextaipei.com.tw/en/index.html"
+      ],
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "display-week-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "SID Display Week 2027",
+      "start": "2027-06-08",
+      "end": "2027-06-11",
+      "location": "San Jose, California",
+      "notes": "Symposium 8 to 11 June; exhibition and I-Zone 8 to 10 June, per SID. The same page also shows 6 to 11 June in one place (probably including short courses). Key event for microdisplays and waveguides.",
+      "sources": [
+        "https://www.displayweek.org/program/authors-presenters"
+      ],
+      "updated": "2026-11-10"
+    },
+    {
+      "id": "mwc-shanghai-2027",
+      "type": "event",
+      "status": "Confirmed",
+      "title": "MWC Shanghai 2027",
+      "start": "2027-06-23",
+      "end": "2027-06-25",
+      "location": "SNIEC, Shanghai",
+      "notes": "Dates per GSMA's MWC Shanghai site. Chinese AI glasses vendors and operators often show new devices here.",
+      "sources": [
+        "https://www.mwcshanghai.com/"
+      ],
+      "updated": "2026-11-10"
     }
   ]
 }

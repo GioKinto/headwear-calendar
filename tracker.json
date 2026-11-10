@@ -4,12 +4,14 @@
     {
       "name": "Samsung/Google Android XR glasses: first deliveries",
       "status": "Expected",
-      "window": "Mid-December 2026",
-      "detail": "Warby Parker's co-CEO said first pairs reach customers in mid-December; Korean press says on sale in December. Exact ship day not named; no price yet.",
+      "window": "Mid-December 2026 (slipped from November)",
+      "detail": "Warby Parker's co-CEO said first pairs reach customers in mid-December. Tech Times (citing NewsBytes and GSMArena) reports a six-week slip from the November window Samsung gave The Korea Herald, with the first rollout limited to the US and South Korea. Exact ship day not named; no price yet.",
       "sources": [
         "https://the-gadgeteer.com/2026/11/06/samsung-android-xr-glasses-preorders-november-12/",
-        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th"
-      ]
+        "https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th",
+        "https://www.techtimes.com/articles/329847/20261101/samsung-smart-glasses-slip-december-google-keeps-gemini-conversations-18-months.htm"
+      ],
+      "kind": "launch"
     },
     {
       "name": "XREAL Aura (Android XR): shipping and wider retail",
@@ -18,7 +20,8 @@
       "detail": "Went on sale 28 Oct 2026 in the US, Canada, Japan and South Korea from $1,099 (launch price). Select Google Store locations in the US and Japan to stock it in 2027.",
       "sources": [
         "https://roadtovr.com/google-ar-glasses-xreal-aura-release-date-price/"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Snap Specs: shipping",
@@ -27,7 +30,8 @@
       "detail": "$2,195, preorders open with a $200 refundable deposit; EE is the UK carrier partner. Per Snap's 16 Sept 2026 announcement. Needs checking whether shipping has started.",
       "sources": [
         "https://investor.snap.com/news/news-details/2026/SPECS-Make-Computing-More-Human-with-New-Experiences-Partnerships-and-SPECS-Intelligence/default.aspx"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Meta VR Glasses (Project Phoenix)",
@@ -36,7 +40,8 @@
       "detail": "Announced at Connect 2026 at $1,299.99; glasses plus a compute puck; no preorders yet and no UK/EU pricing.",
       "sources": [
         "https://vr.org/meta-connect-2026"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Google Android XR display glasses",
@@ -45,7 +50,8 @@
       "detail": "Google indicated at I/O 2026 that display glasses won't reach retail before 2027; audio-only models came first.",
       "sources": [
         "https://www.androidauthority.com/android-xr-display-glasses-3668830/"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Gucci x Google Android XR glasses",
@@ -54,16 +60,19 @@
       "detail": "Partnership announced by Kering (April 2026, reported by Reuters). Technical details, including whether there is a display, not disclosed.",
       "sources": [
         "https://www.androidheadlines.com/2026/04/gucci-google-android-xr-smart-glasses-2027.html"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Apple smart glasses (N50)",
       "status": "Rumoured",
       "window": "Unveil at WWDC 2027, release by end of 2027",
-      "detail": "Per Bloomberg's Mark Gurman (July 2026); original plan was a late-2026 reveal. Not confirmed by Apple.",
+      "detail": "Bloomberg's Mark Gurman (July 2026) reported an unveil at WWDC 2027 with release by end of 2027; the original plan was a late-2026 reveal. Ming-Chi Kuo (June 2026) also expects the AI glasses to ship in 2027, with display AR glasses not before 2029. Not confirmed by Apple.",
       "sources": [
-        "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/"
-      ]
+        "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/",
+        "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/"
+      ],
+      "kind": "launch"
     },
     {
       "name": "Amazon consumer HUD glasses",
@@ -72,15 +81,167 @@
       "detail": "Per The Information (Sept 2025). Old report; needs a fresh source.",
       "sources": [
         "https://www.uploadvr.com/amazon-reportedly-working-on-echo-hud-glasses/"
-      ]
+      ],
+      "kind": "launch"
     },
     {
       "name": "Samsung Galaxy Unpacked (early 2027)",
       "status": "TBA",
-      "window": "Early 2027, not announced",
-      "detail": "The early-2026 edition was 25 Feb. Worth watching for Samsung glasses and Android XR news.",
+      "window": "Late January or early February 2027 expected; not announced",
+      "detail": "Trackers expect Samsung to return to its usual early-year slot after the S26 event slipped to 25 Feb 2026. Worth watching for Galaxy glasses and Android XR news.",
       "sources": [
-        "https://www.thurrott.com/hardware/332582/samsung-to-reveal-its-next-flagship-galaxy-phones-on-february-25"
+        "https://the-gadgeteer.com/2026/05/29/samsung-galaxy-s27-rumors-release-date/"
+      ],
+      "kind": "event"
+    },
+    {
+      "kind": "launch",
+      "name": "PICO Space Pro (Project Swan)",
+      "status": "Expected",
+      "window": "Q4 2026 in China; global 'late 2026'",
+      "detail": "ByteDance's high-end micro-OLED MR headset. The 2 Sept Beijing launch event was cancelled on 24 Aug and moved to Q4 2026; no new date or price yet (unconfirmed reports suggest $1,500 to $2,000). UK/Europe availability unclear.",
+      "sources": [
+        "https://sightfront.com/pico-space-pro-project-swan/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Meta Muse Charm",
+      "status": "Confirmed",
+      "window": "More details promised 'later this year' (2026)",
+      "detail": "Keychain-style device for Meta's Muse AI agent (display, speakers, mics), announced at Connect 2026. Adjacent to glasses rather than eyewear. No price or date yet.",
+      "sources": [
+        "https://www.engadget.com/2267230/everything-announced-at-meta-connect-2026/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Nothing smart glasses",
+      "status": "Rumoured",
+      "window": "H1 2027",
+      "detail": "Reported in April 2026 as targeting a first-half 2027 release; no named source and not confirmed by Nothing.",
+      "sources": [
+        "https://hypebeast.com/2026/4/nothing-smart-glasses-target-2027-launch-with-ai-ecosystem"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Samsung display glasses (codename Haean, SM-O500)",
+      "status": "Rumoured",
+      "window": "2027 (speculative)",
+      "detail": "Codename found in One UI 9 firmware by Android Authority; a 2027 debut is speculation. Separate from the audio/camera glasses launching in December.",
+      "sources": [
+        "https://sammyguru.com/samsung-leak-advanced-ar-glasses-2027/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Meta Quest 4",
+      "status": "Rumoured",
+      "window": "2027 at the earliest; holiday 2027 to early 2028 likely",
+      "detail": "Not announced by Meta. Reporting says the Pismo prototypes were cancelled and the ultralight 'Puffin' (now the Meta VR Glasses, spring 2027) comes first.",
+      "sources": [
+        "https://the-gadgeteer.com/2026/05/21/meta-quest-4-leak/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Meta AR glasses (Orion successor)",
+      "status": "Rumoured",
+      "window": "Developer edition late 2027; consumer 2028",
+      "detail": "Per leaked internal timelines reported by The Information, as summarised by VisibleCompute (updated Oct 2026). Not confirmed by Meta.",
+      "sources": [
+        "https://www.visiblecompute.com/blog/smart-glasses-release-timeline-2026-2027/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Apple Vision Pro successor / Vision Air",
+      "status": "Rumoured",
+      "window": "On hold or cancelled",
+      "detail": "Ming-Chi Kuo (June 2026) says the Vision Pro 2 and Vision Air were scrapped in favour of glasses; Gurman says a Vision Pro 2 is in testing but the category is 'on ice'.",
+      "sources": [
+        "https://www.macrumors.com/2026/06/03/kuo-vision-pro-successors-nixed/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "XREAL Hong Kong IPO",
+      "status": "Expected",
+      "window": "Filed April 2026; listing date not set",
+      "detail": "Main board application with CICC and Citigroup as joint sponsors. No target listing date reported.",
+      "sources": [
+        "https://www.uctoday.com/devices-workspace-tech/xreal-files-for-hong-kong-ipo-as-smart-glasses-race-intensifies/"
+      ]
+    },
+    {
+      "kind": "launch",
+      "name": "Rokid Hong Kong IPO",
+      "status": "Rumoured",
+      "window": "Not set",
+      "detail": "Reported (July 2026) as preparing a Hong Kong listing after completing its shareholding reform; no filing date reported.",
+      "sources": [
+        "https://eu.36kr.com/en/p/3889130509777545"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "Samsung Galaxy Unpacked (summer 2027)",
+      "status": "TBA",
+      "window": "Usually July; not announced",
+      "detail": "Samsung's foldables event; a likely venue for glasses or Android XR updates.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Galaxy_Unpacked"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "Apple September event 2027",
+      "status": "TBA",
+      "window": "Usually early September; not announced",
+      "detail": "If the N50 glasses are previewed at WWDC 2027, this is the likely launch moment for a late-2027 release.",
+      "sources": [
+        "https://roadtovr.com/apples-smart-glasses-unveil-wwdc-2027-release-date/"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "Made by Google 2027",
+      "status": "TBA",
+      "window": "August in 2024 and 2025; not announced",
+      "detail": "Pixel hardware event; relevant if Google shows first-party or partner Android XR display glasses in 2027.",
+      "sources": [
+        "https://www.androidauthority.com/android-xr-display-glasses-3668830/"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "Qualcomm Snapdragon Summit 2027",
+      "status": "TBA",
+      "window": "Late September in 2025 and 2026; not announced",
+      "detail": "The 2026 edition ran 22 to 24 September in Maui. Where Qualcomm usually unveils chips, including AR/XR platforms used in most non-Apple glasses.",
+      "sources": [
+        "https://www.gsmarena.com/qualcomm_snapdragon_summit_2026_date-news-73500.php"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "AWE Asia 2027",
+      "status": "TBA",
+      "window": "Not announced",
+      "detail": "The 2026 edition ran 2 to 4 February in Singapore. A third-party listing shows Shanghai in July 2027, but it looks unreliable.",
+      "sources": [
+        "https://technode.global/prnasia/augmented-world-expo-asia-2026-announces-agenda/"
+      ]
+    },
+    {
+      "kind": "event",
+      "name": "EssilorLuxottica full-year 2026 results",
+      "status": "TBA",
+      "window": "Early 2027; date not yet on its financial calendar",
+      "detail": "Useful read-across on Ray-Ban Meta and Oakley Meta sales. Add to the calendar once the date is published.",
+      "sources": [
+        "https://www.essilorluxottica.com/en/investors/financial-calendar"
       ]
     }
   ],
@@ -88,6 +249,10 @@
     {
       "date": "2026-11-09",
       "entry": "First version: 10 calendar entries (6 events with dates, 3 placeholders for unannounced events, 1 product date) and 9 tracker items."
+    },
+    {
+      "date": "2026-11-10",
+      "entry": "Wider sweep. Added five dated events (GDC, Laval Virtual, COMPUTEX, Display Week, MWC Shanghai), nine launch or IPO items (PICO Space Pro, Meta Muse Charm, Nothing glasses, Samsung Haean, Meta Quest 4, Meta AR glasses, Apple Vision Pro successor, XREAL and Rokid IPOs) and six events still awaiting dates. Samsung/Google glasses: deliveries reportedly slipped to mid-December, US and Korea first. Apple glasses: added Kuo's view."
     }
   ]
 }

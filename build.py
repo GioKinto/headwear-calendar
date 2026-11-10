@@ -22,7 +22,7 @@ def build_ics(data):
     cal.add(
         "x-wr-caldesc",
         "Industry events and product launch dates for AI glasses and XR headwear. "
-        f"Last checked {data['last_checked']}. Status tags: Confirmed, Expected, Rumoured, TBA.",
+        f"Last refreshed {data['last_checked']}. Status tags: Confirmed, Expected, Rumoured, TBA.",
     )
     cal.add("refresh-interval", timedelta(hours=12), parameters={"VALUE": "DURATION"})
     cal.add("x-published-ttl", "PT12H")
@@ -51,7 +51,7 @@ def build_ics(data):
             "Sources:",
             *[f"- {u}" for u in it["sources"]],
             "",
-            f"Last checked: {data['last_checked']}",
+            f"Last checked: {it['updated']}",
         ]
         ev.add("description", "\n".join(desc))
         ev.add("categories", [it["type"].capitalize()])
@@ -75,7 +75,7 @@ def build_readme(data, tracker):
         "Subscribe to `headwear-events.ics` from this repo in Outlook (Add calendar > Subscribe from web). "
         "Everything in the calendar is all-day and shows as Free, so it never blocks availability.",
         "",
-        f"Last checked: {fmt(data['last_checked'])}",
+        f"Last refreshed: {fmt(data['last_checked'])}",
         "",
         "Status tags: **Confirmed** (organiser or company has said so), **Expected** (reported or "
         "partner-sourced but not confirmed by the company, or a source needs checking), **Rumoured** "
@@ -92,10 +92,12 @@ def build_readme(data, tracker):
             dates = date.fromisoformat(it["start"]).strftime("%b %Y") + " (TBA)"
         lines.append(f"| {dates} | {it['status']} | [{cell(it['title'])}]({it['sources'][0]}) | {cell(it.get('location'))} |")
 
-    lines += ["", "## Tracker (no firm date yet, so not in the calendar)", "", tracker["note"], "",
-              "| Item | Status | Window | Detail |", "|---|---|---|---|"]
-    for t in tracker["items"]:
-        lines.append(f"| [{cell(t['name'])}]({t['sources'][0]}) | {t['status']} | {cell(t['window'])} | {cell(t['detail'])} |")
+    lines += ["", "## Tracker (no firm date yet, so not in the calendar)", "", tracker["note"]]
+    for kind, heading in (("launch", "Launches, products and IPOs"), ("event", "Events with dates not yet announced")):
+        lines += ["", f"### {heading}", "", "| Item | Status | Window | Detail |", "|---|---|---|---|"]
+        for t in tracker["items"]:
+            if t.get("kind", "launch") == kind:
+                lines.append(f"| [{cell(t['name'])}]({t['sources'][0]}) | {t['status']} | {cell(t['window'])} | {cell(t['detail'])} |")
 
     lines += ["", "## Change log", ""]
     for c in tracker["changelog"]:

@@ -4,8 +4,8 @@ PRODID:-//Headwear Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALDESC:Industry events and product launch dates for AI glasses and X
- R headwear. Last checked 2026-11-09. Status tags: Confirmed, Expected, Rum
- oured, TBA.
+ R headwear. Last refreshed 2026-11-10. Status tags: Confirmed, Expected, R
+ umoured, TBA.
 X-WR-CALNAME:Headwear events & launches
 REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
@@ -13,22 +13,27 @@ BEGIN:VEVENT
 SUMMARY:[Expected] Samsung/Google Android XR glasses preorders open
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:samsung-google-intelligent-eyewear-preorders-2026@headwear-calendar
-SEQUENCE:0
+SEQUENCE:1
 CATEGORIES:Launch
 DESCRIPTION:Status: Expected\nType: launch\n\nPreorders for the Samsung an
  d Google Android XR 'Intelligent Eyewear' (designs with Gentle Monster and
-  Warby Parker) reportedly open 12 Nov\, with first deliveries in mid-Decem
- ber. The date comes from Warby Parker's co-CEO on its Q3 earnings call and
-  from Gentle Monster's website\; Samsung and Google have not confirmed it.
-  Korean press reports preorders in Korea\, the US and other major markets.
-  No price announced yet.\n\nSources:\n- https://the-gadgeteer.com/2026/11/
- 06/samsung-android-xr-glasses-preorders-november-12/\n- https://engadget.c
- om/2309631/googles-eyewear-partners-cant-keep-a-lid-on-its-smart-glasses-p
- lans\n- https://en.sedaily.com/finance/2026/11/09/samsungs-first-ai-glasse
- s-open-for-preorder-on-the-12th\n\nLast checked: 2026-11-09
-LAST-MODIFIED:20261109T000000Z
+  Warby Parker) reportedly open 12 Nov. The date comes from Warby Parker's 
+ co-CEO on its Q3 earnings call and from Gentle Monster's website\; Samsung
+  and Google have not confirmed it. Deliveries have reportedly slipped from
+  November to mid-December. Reports differ on markets: Korean press mention
+ s Korea\, the US and other major markets\, while Tech Times (citing NewsBy
+ tes and GSMArena) says the first rollout covers only the US and South Kore
+ a\, with Europe\, China and Japan excluded. No price announced yet.\n\nSou
+ rces:\n- https://the-gadgeteer.com/2026/11/06/samsung-android-xr-glasses-p
+ reorders-november-12/\n- https://engadget.com/2309631/googles-eyewear-part
+ ners-cant-keep-a-lid-on-its-smart-glasses-plans\n- https://en.sedaily.com/
+ finance/2026/11/09/samsungs-first-ai-glasses-open-for-preorder-on-the-12th
+ \n- https://www.techtimes.com/articles/329847/20261101/samsung-smart-glass
+ es-slip-december-google-keeps-gemini-conversations-18-months.htm\n\nLast c
+ hecked: 2026-11-10
+LAST-MODIFIED:20261110T000000Z
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -37,7 +42,7 @@ BEGIN:VEVENT
 SUMMARY:[Confirmed] UnitedXR Europe 2026
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:unitedxr-europe-2026@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -55,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:[Confirmed] CES 2027
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270110
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:ces-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -73,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:[Confirmed] SPIE AR|VR|MR 2027 (at Photonics West)
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270205
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:spie-ar-vr-mr-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -94,7 +99,7 @@ BEGIN:VEVENT
 SUMMARY:[Confirmed] MWC Barcelona 2027
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:mwc-barcelona-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -111,7 +116,7 @@ BEGIN:VEVENT
 SUMMARY:[TBA] Google I/O 2027 (May\, dates not announced)
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:google-io-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -130,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:[TBA] Apple WWDC 2027 (June\, dates not announced)
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:wwdc-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -151,7 +156,7 @@ BEGIN:VEVENT
 SUMMARY:[Confirmed] AWE USA 2027
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:awe-usa-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -167,7 +172,7 @@ BEGIN:VEVENT
 SUMMARY:[Expected] IFA Berlin 2027
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270908
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:ifa-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -185,7 +190,7 @@ BEGIN:VEVENT
 SUMMARY:[TBA] Meta Connect 2027 (September\, dates not announced)
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
-DTSTAMP:20261109T121402Z
+DTSTAMP:20261110T114926Z
 UID:meta-connect-2027@headwear-calendar
 SEQUENCE:0
 CATEGORIES:Event
@@ -194,6 +199,102 @@ DESCRIPTION:Status: TBA\nType: event\n\nPlaceholder on the 1st of the expe
  September.\n\nSources:\n- https://roadtovr.com/meta-connect-2026-date-anno
  uncement/\n\nLast checked: 2026-11-09
 LAST-MODIFIED:20261109T000000Z
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] GDC Festival of Gaming 2027
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270306
+DTSTAMP:20261110T114926Z
+UID:gdc-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per GDC's registration
+  site. Relevant for VR/MR content and platform news from Meta\, Valve\, Pi
+ co and others. Overlaps with MWC Barcelona.\n\nSources:\n- https://reg.gdc
+ onf.com/SolutionProvidersRequestInfo\n- https://gamedev.net/news/5271-gdc-
+ festival-of-gaming-announces-changes-to-2027-event-including-new-business
+ \n\nLast checked: 2026-11-10
+LAST-MODIFIED:20261110T000000Z
+LOCATION:San Francisco (Business Hall at Moscone West)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] Laval Virtual 2027
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270410
+DTSTAMP:20261110T114926Z
+UID:laval-virtual-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per the organiser's si
+ te. Europe's largest dedicated XR show\, mostly enterprise and research.\n
+ \nSources:\n- https://laval-virtual.com/en/prepare-your-visit\n\nLast chec
+ ked: 2026-11-10
+LAST-MODIFIED:20261110T000000Z
+LOCATION:Espace Mayenne\, Laval\, France
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Expected] COMPUTEX 2027
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270605
+DTSTAMP:20261110T114926Z
+UID:computex-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Expected\nType: event\n\nDates from a third-party list
+ ing that cites TAITRA's official site (checked 30 Oct 2026). I couldn't lo
+ ad the official site to confirm\, so this needs checking. Qualcomm\, ASUS
+ \, Acer and Taiwanese supply-chain firms often show glasses and XR hardwar
+ e here.\n\nSources:\n- https://www.opencurious.com/tech-events/computex-20
+ 27\n- https://www.computextaipei.com.tw/en/index.html\n\nLast checked: 202
+ 6-11-10
+LAST-MODIFIED:20261110T000000Z
+LOCATION:Taipei (Nangang\, TWTC\, TICC)
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] SID Display Week 2027
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270612
+DTSTAMP:20261110T114926Z
+UID:display-week-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nSymposium 8 to 11 June\; exh
+ ibition and I-Zone 8 to 10 June\, per SID. The same page also shows 6 to 1
+ 1 June in one place (probably including short courses). Key event for micr
+ odisplays and waveguides.\n\nSources:\n- https://www.displayweek.org/progr
+ am/authors-presenters\n\nLast checked: 2026-11-10
+LAST-MODIFIED:20261110T000000Z
+LOCATION:San Jose\, California
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Confirmed] MWC Shanghai 2027
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+DTSTAMP:20261110T114926Z
+UID:mwc-shanghai-2027@headwear-calendar
+SEQUENCE:0
+CATEGORIES:Event
+DESCRIPTION:Status: Confirmed\nType: event\n\nDates per GSMA's MWC Shangha
+ i site. Chinese AI glasses vendors and operators often show new devices he
+ re.\n\nSources:\n- https://www.mwcshanghai.com/\n\nLast checked: 2026-11-1
+ 0
+LAST-MODIFIED:20261110T000000Z
+LOCATION:SNIEC\, Shanghai
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-ALLDAYEVENT:TRUE
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
